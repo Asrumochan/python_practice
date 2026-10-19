@@ -23,3 +23,22 @@ print(last_character)  # Output: n
 substring4 = str1[-5:-1]
 print(substring4)  # Output: ocha
 
+#String Functions
+
+str = "i am a coder."
+
+print(str.endswith("er."))
+
+print(str.capitalize())
+
+print(str.replace('a','p'))
+
+print(str.find('m'))
+
+print(str.count("a"))
+
+#WAP to take input from user and print the length of the string
+
+str = input("Enter the string: ")
+print(len(str))
+
