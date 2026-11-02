@@ -48,4 +48,20 @@
 #         print("Number is Odd")
 
 
+# wap to find out the greatest of the three numbers entered by the user
+
+a, b, c =map(int, input("Enter three numbers :").split()) 
+
+if(a>b):
+    if(a>c):
+        print(a , "is greatest")
+    else:
+        print(c , "is greatest")
+else:
+    if(b>c):
+        print(b , "is greatest")
+    else:
+        print(c , "is greatest")
+
+        
 
