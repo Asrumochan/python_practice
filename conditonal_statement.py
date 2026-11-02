@@ -23,12 +23,29 @@
 
 #Nesting
 
-age = int(input("Enter the age :"))
-if(age >= 18):
-    if(age >= 80):
-        print("Cannot Drive!")
-    else:
-        print("Can Drive !")
-else:
-    print("Cannot Drive !")
+# age = int(input("Enter the age :"))
+# if(age >= 18):
+#     if(age >= 80):
+#         print("Cannot Drive!")
+#     else:
+#         print("Can Drive !")
+# else:
+#     print("Cannot Drive !")
+
+
+# Prcatice:
+
+# wap to check if a number enterd by the user is odd or even:
+
+# num = int(input("Enter the number:"))
+
+# if(num <= 0):
+#     print("Enter a valid Number that should be greater than 0")
+# else:
+#     if(num % 2 == 0):
+#         print("Number is Even")
+#     else:
+#         print("Number is Odd")
+
+
 
