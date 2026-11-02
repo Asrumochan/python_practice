@@ -50,18 +50,25 @@
 
 # wap to find out the greatest of the three numbers entered by the user
 
-a, b, c =map(int, input("Enter three numbers :").split()) 
+# a, b, c =map(int, input("Enter three numbers :").split()) 
 
-if(a>b):
-    if(a>c):
-        print(a , "is greatest")
-    else:
-        print(c , "is greatest")
-else:
-    if(b>c):
-        print(b , "is greatest")
-    else:
-        print(c , "is greatest")
+# if(a>b):
+#     if(a>c):
+#         print(a , "is greatest")
+#     else:
+#         print(c , "is greatest")
+# else:
+#     if(b>c):
+#         print(b , "is greatest")
+#     else:
+#         print(c , "is greatest")
 
-        
 
+# wap to find out the entered number is a multiple of 7 or not
+
+# num = int(input("Enter the number: "))
+
+# if(num % 7 == 0):
+#     print(num , "is a multiple of 7")
+# else:   
+#     print(num , "is not a multiple of 7")
