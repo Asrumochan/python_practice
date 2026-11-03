@@ -11,4 +11,14 @@
 
 
 
+# wap to chek if a list contains a palindrome of elements 
+
+# els = input("enter your list :").split()
+
+# if(list(reversed(els)) == els):
+#     print("Palidrome ")
+# else:
+#     print("Not Palindrome")
+
+
 
