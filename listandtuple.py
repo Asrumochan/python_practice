@@ -21,4 +21,18 @@
 #     print("Not Palindrome")
 
 
+#  wap to count the numbers of the students with A grade in the following tuple
+
+# tup = ("C", "D" ,"B" , "A", "A","B","A")
+
+# print(tup.count("B"))
+
+# wap to store the above values in a list and sort them from "A" to "D"
+
+# new_list = list(tup)
+
+# new_list.sort()
+
+# print(new_list)
+
 
