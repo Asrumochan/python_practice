@@ -7,4 +7,9 @@
 # write files
 
 f = open("docs.txt","w")
-f.write("Abey Saley")
+f.write("HI I AM ASRUMOCHAN ")
+f.close()
+
+f = open("docs.txt","a")
+f.write("PARIDA")
+f.close()
