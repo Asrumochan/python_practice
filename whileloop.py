@@ -36,3 +36,13 @@
 #     print(num ,"is present in the tuple at",idx,"index")
 # else:
 #     print(num ,"is not present in the tuple")
+
+# WAP to find the sum of first n natural numbers. (using while loop)
+
+# num = int(input("Enter the number: "))
+# i=1
+# sum=0
+# while(i<=num):
+#     sum += i
+#     i += 1
+# print("sum = ",sum)
