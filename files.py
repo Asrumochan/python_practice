@@ -10,6 +10,6 @@ f = open("docs.txt","w")
 f.write("HI I AM ASRUMOCHAN ")
 f.close()
 
-f = open("docs.txt","a")
+f = open("sample.txt","a")
 f.write("PARIDA")
 f.close()
