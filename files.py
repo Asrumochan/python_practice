@@ -55,3 +55,16 @@
 #             line += 1
 #     print(-1)
 # check_line("pron")
+
+
+#  From a file containing numbers separated by comma , print the count of the even numbers
+
+# with open("nums.txt",'r') as f:
+#     data = f.read().split(",")
+#     print(len(data))
+#     count = 0
+#     for num in data:
+#         if(int(num) % 2 == 0):
+#             count += 1
+#     print(count)
+    
