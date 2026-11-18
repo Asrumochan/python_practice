@@ -8,5 +8,8 @@ class Student:
     def percentage(self):
         return str(round((self.phy + self.math + self.chem)/3 , 2)) + "%"
 
-s1 = Student(98,96,93)
+s1 = Student(98,89,93)
 print(s1.percentage)
+s1.phy = 87
+print(s1.percentage)
+
